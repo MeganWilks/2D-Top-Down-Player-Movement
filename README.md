@@ -4,7 +4,8 @@ To make this work you will need to add a 2d rigidbody to the player and set the 
 Also make sure you set a speed on the Script otherwise the player will not move
 
 
-- simple Up,Down,Right and left directions 
+"PlayerMovementTopDown" - simple Up,Down,Right and left directions 
 "Player" File - Same as above but also rotates depending where your mouse is pointing
 
-Only Add 1 file to your player
+- ONLY Add 1 file to your player
+- set GRAVITY to 0
